@@ -19,7 +19,7 @@
   "activeUsers": [
     {
       "name": "Sam",
-      "avatar": "jon.jpg"
+      "avatar": "avatar.jpg"
     },
     {
       "name": "Tyler",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Brook",
-      "avatar": "samantha.jpg"
+      "avatar": "avatar.jpg"
     }
   ]
 }
